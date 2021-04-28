@@ -1,3 +1,4 @@
 node_modules
 src/public/*
+!src/public/sintegra_sections_example/
 yarn.lock
