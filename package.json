@@ -1,0 +1,14 @@
+{
+    "name": "arquivos-sintegra",
+    "version": "1.0.0",
+    "main": "./src/server.js",
+    "author": "Ricardo Graciano",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon"
+    },
+    "dependencies": {
+        "csvtojson": "^2.0.10",
+        "express": "^4.17.1"
+    }
+}
